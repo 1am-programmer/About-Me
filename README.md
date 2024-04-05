@@ -3,7 +3,7 @@
 - 🌱 With proficiency in React.js and Next.js
 - 💞️ I’m available for collaboration, to help build my experience level.
 - 📫 How to reach me : dannydotdev@gmail.com
-- 😄 I am currently improving my skills to become a better software developer, sure you can teach me something new I'm ready to learn
+- 😄 I am currently improving my skills to become a better software developer.
 
 
 <!---
