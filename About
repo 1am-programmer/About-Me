@@ -23,7 +23,7 @@ This project implements a chatbot using OpenAI's GPT API. The chatbot is designe
 ## Getting Started
 To get started with the project, follow these steps:
 1. Clone the repository: `git clone https://github.com/1am-programmer/chatbot--using-chatgpt-openai-API-.git`
-2. Install dependencies: `npm install -r requirements.txt`
+2. Install dependencies: `npm install`
 3. Obtain an API key from OpenAI and set it in your environment variables
 4. Run the chatbot app: `npm run dev`
 
